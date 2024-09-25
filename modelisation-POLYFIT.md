@@ -20,7 +20,7 @@ Vous en conniassez déjà quelques exemple :
     
 Commençons comme toujours avec l'importation des bibliothéques `numpy` pour le traitement des séries de nombres, et `matplotlib` pour la visualisation graphique. 
 
-```python!
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 ```
