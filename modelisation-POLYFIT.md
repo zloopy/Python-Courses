@@ -39,7 +39,7 @@ Voici donc comment utiliser la fonction `polyfit` :
 
 ## Exemple d'un corrigé
 
-```python=
+```python
 import numpy as np 
 import matplotlib.pyplot as plt 
 import scipy.stats as ss
